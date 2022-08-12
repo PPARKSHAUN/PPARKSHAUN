@@ -6,3 +6,7 @@
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="78" height="78" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="78" height="78" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="78" height="78" />
+
+
+
+<a href="https://parkshuan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://parkshuan.tistory.com"/>
