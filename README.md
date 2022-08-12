@@ -1,3 +1,5 @@
+<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&animation=twinkling&text=wlecome&fontSize=80<br/>)  
 📧Email📧
@@ -25,3 +27,4 @@
   
   
   ![PPARKSHAUN's github stats](https://github-readme-stats.vercel.app/api?username=PPARKSHAUN&show_icons=true)
+  </div>
