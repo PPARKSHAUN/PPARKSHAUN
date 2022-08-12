@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&animation=twinkling&text=wlecome&fontSize=80<br/>)  
 📧Email📧
+
+
 👉ztlguswkdz@naver.com👈
 
 안녕하세요🙇
@@ -9,6 +11,8 @@
 
 
 ⚙️Tech Stack⚙️
+
+
 <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity">   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="78" height="78" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="78" height="78" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="78" height="78" />
 
 
