@@ -2,6 +2,8 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&animation=twinkling&text=wlecome&fontSize=80<br/>)  
+  
+  
 # 📧Email📧
 
 
@@ -11,13 +13,13 @@
   
   
 
-### 안녕하세요🙇
+#### 안녕하세요🙇
 
 
-### 박시현 깃허브 입니다
+#### 박시현 깃허브 입니다
 
 
-### 🎮유니티를 공부중이며, 게임 클라이언트 개발자가 되기위해 공부중입니다❕❕🎮
+#### 🎮유니티를 공부중이며, 게임 클라이언트 개발자가 되기위해 공부중입니다❕❕🎮
 
 
 # ⚙️Tech Stack⚙️
