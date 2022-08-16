@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&animation=twinkling&text=wlecome&fontSize=80<br/>)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&&animation=twinkling&text=Wlecome&fontSize=80<br/>)  
   
   
 # 📧Email📧
