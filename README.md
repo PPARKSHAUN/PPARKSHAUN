@@ -7,7 +7,7 @@
 # 📧Email📧
 
 
-👉ztlguswkdz@naver.com👈
+👉ztlguswkdz@gmail.com👈
   
   
   
